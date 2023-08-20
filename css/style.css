@@ -1,0 +1,48 @@
+
+/* <!-- Barra de navegacion     --> */
+.navbar-brand {
+    padding: 1rem;         
+  }
+
+  .nav-item {
+    padding: 1rem;
+    
+  }
+
+
+
+   
+    
+ /* <!-- Google Fonts --> */
+  .material-symbols-outlined{
+   font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 48; 
+  }
+
+
+
+ a{
+    font-size: 14px;
+    text-decoration: none;
+}
+
+ p{
+    font-size: 14px;
+ }
+
+ a:hover {
+    color: #0D6EFD
+ }
+
+ i{
+    font-size: 20px;
+ }
+
+ .bg{
+   background-image: url(/img/portada.png);
+   background-position: center center;
+}
+
+.bg-1{
+   background-image: url(/img/portada2.png);
+   background-position: center center;
+}
